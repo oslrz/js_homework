@@ -1,0 +1,44 @@
+.input-group{
+    width: 25rem !important;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    float: left;
+}
+
+.btn-primary{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+#MainField{
+    position: relative;
+    width: 70%;
+    height: max-content;
+    background-color:aliceblue;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    box-shadow: rgba(46, 201, 240, 0.4) 10px 10px, rgba(46, 153, 240, 0.3) 15px 15px, rgba(46, 137, 240, 0.2) 20px 20px, rgba(46, 146, 240, 0.1) 25px 25px, rgba(46, 146, 240, 0.05) 30px 30px;
+}
+
+.Fields_item{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    width: 60%;
+    background-color: rgb(240, 253, 255);
+    min-height: 4rem;
+    border-radius: 20px;
+    position: relative;
+}
+
+.p_item{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    width: 80%;
+    float: left;
+}
+
+.btn-danger{
+    margin-top: 0.56rem;
+}
